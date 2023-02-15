@@ -1,4 +1,4 @@
-# Workout Challenge
+# Workout Challenge AKA Muscle Quest
 
 ## Members
 - Caleb Besser [CalebBesser](https://github.com/CalebBesser)
